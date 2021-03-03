@@ -1,2 +1,2 @@
-# learn-javascript
+# sandbox-test
 Created with CodeSandbox
